@@ -1,0 +1,15 @@
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\bin\Debug\net7.0\homeWorkCycle7.exe
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\bin\Debug\net7.0\homeWorkCycle7.deps.json
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\bin\Debug\net7.0\homeWorkCycle7.runtimeconfig.json
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\bin\Debug\net7.0\homeWorkCycle7.dll
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\bin\Debug\net7.0\homeWorkCycle7.pdb
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.csproj.AssemblyReference.cache
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.AssemblyInfoInputs.cache
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.AssemblyInfo.cs
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.csproj.CoreCompileInputs.cache
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.dll
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\refint\homeWorkCycle7.dll
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.pdb
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\homeWorkCycle7.genruntimeconfig.cache
+C:\Games\Новая папка (2)\HomeWorek3\homeWorkCycle4\obj\Debug\net7.0\ref\homeWorkCycle7.dll

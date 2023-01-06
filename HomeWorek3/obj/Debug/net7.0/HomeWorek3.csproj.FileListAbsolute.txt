@@ -1,0 +1,15 @@
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\bin\Debug\net7.0\HomeWorek3.exe
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\bin\Debug\net7.0\HomeWorek3.deps.json
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\bin\Debug\net7.0\HomeWorek3.runtimeconfig.json
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\bin\Debug\net7.0\HomeWorek3.dll
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\bin\Debug\net7.0\HomeWorek3.pdb
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.csproj.AssemblyReference.cache
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.AssemblyInfoInputs.cache
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.AssemblyInfo.cs
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.csproj.CoreCompileInputs.cache
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.dll
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\refint\HomeWorek3.dll
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.pdb
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\HomeWorek3.genruntimeconfig.cache
+C:\Games\Новая папка (2)\HomeWorek3\HomeWorek3\obj\Debug\net7.0\ref\HomeWorek3.dll
